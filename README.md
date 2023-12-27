@@ -1,3 +1,3 @@
-- 🌱 I’m currently learning 🦀 Rust - 🪄 Leptos/SolidJS
-
-Just that... I DON'T HAVE ENOUGH CONFIDENCE TO WRITE IN ENGLISH!
+- 🤔 Seems like I know how to do some Front-end work
+- 😞 TypeScript - Rust
+- 🌱 I'm currently learning C++ and Qt
