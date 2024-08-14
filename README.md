@@ -1,4 +1,4 @@
-Looks like I know how to do some Front-end work, and I also know some Back-end, which makes me the king of every end! One more to go Trend!
+Looks like I know how to do some Front-end work, and I also know some Back-end, which makes me the king of every end! One more to go *Trend*!
 
 🛣️ Going for a real-world app!
 
